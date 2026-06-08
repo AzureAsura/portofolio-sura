@@ -39,7 +39,7 @@ avatar: "/logo-1-color.jpeg",
 text: "Excellent service from start to finish. The website was delivered quickly, the pricing was reasonable, and every design request was handled professionally. The final news portal website exceeded my expectations with its clean design, smooth performance, and overall quality.",
 },
   {
-  name: "Putu Cahya",
+  name: "Sugiarto Halim",
   avatar: "/gpi.jpg",
   text: "I was impressed by how quickly the project was completed. I expected the company profile and property listing website to take two to three weeks, but it was fully delivered in just two days. The quality, communication, and attention to detail were outstanding.",
   },
