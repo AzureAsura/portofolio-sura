@@ -107,10 +107,10 @@ export const competitions = [
 ];
 
 export const skills = [
-  { name: "Web design", value: 90 },
+  { name: "Web design", value: 85 },
   { name: "Frontend Development", value: 100 },
-  { name: "Backend Development", value: 85 },
-  { name: "Smart Contract Development", value: 70 },
+  { name: "Backend Development", value: 90 },
+  { name: "Smart Contract Development", value: 75 },
 ];
 
 export const filterCategories = [
@@ -141,6 +141,18 @@ export const projects = [
     category: "web 2",
     img: "/project-1.png",
     links: "https://www.pt-gpi.com/"
+  },
+  {
+    title: "Megatha Resto",
+    category: "web 2",
+    img: "/project-8.png",
+    links: "https://megatha-resto.vercel.app/"
+  },
+  {
+    title: "Nirmala Lottery",
+    category: "web 3",
+    img: "/project-9.png",
+    links: "https://nirmala-lottery.vercel.app/"
   },
 
 

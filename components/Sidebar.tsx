@@ -127,11 +127,12 @@ export default function Sidebar() {
             { icon: "fa-brands fa-x-twitter", href: "#" },
             { icon: "fa-brands fa-youtube", href: "#" },
             { icon: "fa-brands fa-telegram", href: "#" },
-            { icon: "fa-brands fa-instagram", href: "#" },
+            { icon: "fa-brands fa-instagram", href: "https://www.instagram.com/mdsuraa_/" },
           ].map(({ icon, href }) => (
             <li key={icon}>
               <a
                 href={href}
+                target="_blank"
                 className="text-gray-400 text-lg hover:text-white transition-colors duration-200"
               >
                 <i className={icon} />
