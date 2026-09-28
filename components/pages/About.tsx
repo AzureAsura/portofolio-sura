@@ -35,10 +35,13 @@ export default function About({ isActive }: Props) {
 
       <section className="text-gray-200 text-base font-normal leading-relaxed tracking-wide space-y-4 mb-8 sm:mb-[40px]">
         <p>
-          Fullstack Web Developer passionate about building modern, scalable, and user-focused web applications.
+          Full-stack developer working across Web2 and Web3, from polished front-end interfaces to backend systems, smart contracts, and AI-powered features.
         </p>
         <p>
-          I specialize in Next.js, React, TypeScript, PostgreSQL, Prisma, and MongoDB. From responsive user interfaces to robust backend systems and REST API integrations, I enjoy turning ideas into fast, reliable, and maintainable digital products.
+          I write in JavaScript, TypeScript, Python, Go, and PHP, and I'm comfortable with ORMs like Prisma and Mongoose. On the Web3 side, I've shipped smart contracts across EVM chains (Ethereum, Base, BNB Chain), plus Solana (Rust) and Aptos. I also have hands-on experience as an AI engineer.
+        </p>
+        <p>
+          A regular at hackathons and an active member of the Web3 Bali community, I enjoy turning ideas into fast, reliable, and maintainable products.
         </p>
       </section>
 

@@ -34,20 +34,20 @@ export interface Testimonial {
 
 export const testimonials: Testimonial[] = [
   {
-name: "Haga Matsya",
-avatar: "/logo-1-color.jpeg",
-text: "Excellent service from start to finish. The website was delivered quickly, the pricing was reasonable, and every design request was handled professionally. The final news portal website exceeded my expectations with its clean design, smooth performance, and overall quality.",
-},
-  {
-  name: "Sugiarto Halim",
-  avatar: "/gpi.jpg",
-  text: "I was impressed by how quickly the project was completed. I expected the company profile and property listing website to take two to three weeks, but it was fully delivered in just two days. The quality, communication, and attention to detail were outstanding.",
+    name: "Haga Matsya",
+    avatar: "/logo-1-color.jpeg",
+    text: "Excellent service from start to finish. The website was delivered quickly, the pricing was reasonable, and every design request was handled professionally. The final news portal website exceeded my expectations with its clean design, smooth performance, and overall quality.",
   },
   {
-  name: "Trahwidhi",
-  avatar: "/logo-4-color.png",
-  text: "Working together was a great experience. Communication was always responsive and transparent throughout the project. The website was built with excellent responsiveness across all devices, and the final result for ChainDox exceeded expectations.",
-},
+    name: "Sugiarto Halim",
+    avatar: "/gpi.jpg",
+    text: "I was impressed by how quickly the project was completed. I expected the company profile and property listing website to take two to three weeks, but it was fully delivered in just two days. The quality, communication, and attention to detail were outstanding.",
+  },
+  {
+    name: "Trahwidhi",
+    avatar: "/logo-4-color.png",
+    text: "Working together was a great experience. Communication was always responsive and transparent throughout the project. The website was built with excellent responsiveness across all devices, and the final result for ChainDox exceeded expectations.",
+  },
 ];
 
 export const clients = [
@@ -75,6 +75,11 @@ export const experience = [
     title: "Web Developer — Bali Blockchain Weeks",
     period: "Jan 2026 - Apr 2026",
     text: "Developed and maintained the event website, implemented form submission systems, and optimized performance and user experience.",
+  },
+  {
+    title: "Full-Stack Developer — Megatha Tech",
+    period: "2026 - Present",
+    text: "Building full-stack web applications end to end, from responsive front-end interfaces to backend APIs and database design, with a focus on performance, scalability, and clean user experience.",
   },
   {
     title: "Web Developer — VN Software House",
@@ -153,6 +158,12 @@ export const projects = [
     category: "web 3",
     img: "/project-9.png",
     links: "https://nirmala-lottery.vercel.app/"
+  },
+  {
+    title: "Nirmala Exchange",
+    category: "web 3",
+    img: "/project-10.png",
+    links: "https://nirmala-exchange.vercel.app/"
   },
 
 
