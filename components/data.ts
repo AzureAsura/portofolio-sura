@@ -67,6 +67,11 @@ export const education = [
 
 export const experience = [
   {
+    title: "Full-Stack Developer — Megatha Tech",
+    period: "Jul 2026 - Present",
+    text: "Building full-stack web applications end to end, from responsive front-end interfaces to backend APIs and database design, with a focus on performance, scalability, and clean user experience.",
+  },
+  {
     title: "Web Developer — Palm Game Studio",
     period: "Jun 2026 - Present",
     text: "Developing and maintaining web applications with a focus on performance, scalability, and user experience.",
@@ -77,13 +82,8 @@ export const experience = [
     text: "Developed and maintained the event website, implemented form submission systems, and optimized performance and user experience.",
   },
   {
-    title: "Full-Stack Developer — Megatha Tech",
-    period: "2026 - Present",
-    text: "Building full-stack web applications end to end, from responsive front-end interfaces to backend APIs and database design, with a focus on performance, scalability, and clean user experience.",
-  },
-  {
     title: "Web Developer — VN Software House",
-    period: "2025 - Present",
+    period: "Aug 2025 - Dec 2025",
     text: "Built SEO-friendly business websites using Next.js and Tailwind CSS for local businesses and clients.",
   },
 ];
@@ -164,6 +164,12 @@ export const projects = [
     category: "web 3",
     img: "/project-10.png",
     links: "https://nirmala-exchange.vercel.app/"
+  },
+  {
+    title: "Nirmala Travel",
+    category: "web 2",
+    img: "/project-11.png",
+    links: "https://nirmala-travel.vercel.app/"
   },
 
 
