@@ -123,10 +123,10 @@ export default function Sidebar() {
 
         <ul className="flex justify-start items-center gap-[20px] pb-[4px] pl-[4px] xl:justify-center">
           {[
-            { icon: "fa-brands fa-facebook", href: "#" },
-            { icon: "fa-brands fa-x-twitter", href: "#" },
-            { icon: "fa-brands fa-youtube", href: "#" },
-            { icon: "fa-brands fa-telegram", href: "#" },
+            { icon: "fa-brands fa-github", href: "https://github.com/AzureAsura" },
+            { icon: "fa-brands fa-x-twitter", href: "https://x.com/surazsuraa?s=11" },
+            { icon: "fa-brands fa-linkedin", href: "https://www.linkedin.com/in/made-paramasura-2a380a381/" },
+            { icon: "fa-brands fa-telegram", href: "https://t.me/surasativa" },
             { icon: "fa-brands fa-instagram", href: "https://www.instagram.com/mdsuraa_/" },
           ].map(({ icon, href }) => (
             <li key={icon}>
